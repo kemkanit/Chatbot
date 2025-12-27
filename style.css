@@ -1,10 +1,10 @@
 /* --- Variables & Reset --- */
 :root {
   /* Primary: สีแดง Mastercard ที่ผสมขาวลงไป 20% (#EB001B -> #E85D55) ดูซอฟต์และทันสมัย */
-  --primary-color: #E85D55; 
+  --primary-color: hsl(335, 76%, 62%); 
   
   /* Hover: สีแดงอมชมพูที่สว่างขึ้น สำหรับตอนเอาเมาส์ชี้ */
-  --primary-light: #FF8A82; 
+  --primary-light: #ff82cdca; 
   
   /* Bot Bubble: สีครีมไข่ไก่จางๆ (#FFF8E1) ให้ความรู้สึกอบอุ่น ตัดกับสีแดงส้มได้ดี */
   --bot-bubble-bg: #FFF8E7; 
